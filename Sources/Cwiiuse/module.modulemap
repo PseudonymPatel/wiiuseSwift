@@ -1,0 +1,5 @@
+module Cwiiuse {
+	header "../../Cwiiuse-Bridging-Header.h"
+	link "wiiuse"
+	export *
+}
